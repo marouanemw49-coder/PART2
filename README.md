@@ -1,7 +1,5 @@
-# 🚀 Activité Pratique N°2 : ORM, JPA, Hibernate & Spring Data
+#  Activité Pratique N°2 : ORM, JPA, Hibernate & Spring Data
 
-> **Auteur :** Ilyas SEKHSOUKHI  
-> **Formation :** 2ème Année Cycle Ingénieur (2ACI) - Architecture JEE & Java Avancé
 
 Ce projet illustre la mise en œuvre du mapping objet-relationnel (**ORM**) avec **Spring Data JPA** et **Hibernate** à travers une application Spring Boot de gestion de produits (`Product`), intégrant une base de données en mémoire **H2** ainsi qu'une interface **REST API**.
 
