@@ -186,8 +186,4 @@ Réponse JSON obtenue pour le produit d'identifiant `1` (`http://localhost:8087/
 
 ---
 
-## 👤 Auteur
-
-- **Nom :** Ilyas SEKHSOUKHI
-- **GitHub :** [@Ilyas-SEKHSOUKHI](https://github.com/Ilyas-SEKHSOUKHI)
 
